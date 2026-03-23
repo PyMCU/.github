@@ -1,9 +1,9 @@
-# PyMCU Project 🐍⚡
+# Whipsnake Project 🐍⚡
 
 > **🚧 STATUS UPDATE (March 2026): Active & In Stealth Mode**
-> The PyMCU organization might look quiet, but heavy development is happening behind closed doors. We are currently heads-down building the core infrastructure, finalizing the first Alpha release, and polishing the PyMCU standard library. **Big news and code drops are coming very soon. Stay tuned.**
+> The Whipsnake organization might look quiet, but heavy development is happening behind closed doors. We are currently heads-down building the core infrastructure, finalizing the first Alpha release, and polishing the Whipsnake standard library. **Big news and code drops are coming very soon. Stay tuned.**
 
-**PyMCU** is an **open-source, experimental AOT compiler** that translates a safe subset of Python directly into **pure Assembly (ASM)** for microcontrollers — aiming for deterministic, bare-metal execution.
+**Whipsnake** is an **open-source, experimental AOT compiler** that translates a safe subset of Python directly into **pure Assembly (ASM)** for microcontrollers — aiming for deterministic, bare-metal execution.
 
 - **Deterministic by design:** no OS, no Garbage Collector.
 - **Ecosystem-ready:** Built-in standard library tailored for embedded constraints.
@@ -23,6 +23,6 @@ To ensure a highly optimized and stable Alpha release, our current development i
 Follow the organization to be notified when the repositories go public. Once we launch, we will be actively looking for feedback via issues, as well as contributions to code, docs, and tests.
 
 ## ☕ Support
-PyMCU is free, independent, and community-driven. If you believe in the vision and wish to support the development leading up to the Alpha release, you can donate via **Ko-fi** (see the Sponsor button at the top).
+Whipsnake is free, independent, and community-driven. If you believe in the vision and wish to support the development leading up to the Alpha release, you can donate via **Ko-fi** (see the Sponsor button at the top).
 
-📧 **contact@pymcu.org**
+📧 **contact@Whipsnake.org**

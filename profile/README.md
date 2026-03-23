@@ -25,4 +25,4 @@ Follow the organization to be notified when the repositories go public. Once we 
 ## ☕ Support
 Whipsnake is free, independent, and community-driven. If you believe in the vision and wish to support the development leading up to the Alpha release, you can donate via **Ko-fi** (see the Sponsor button at the top).
 
-📧 **contact@Whipsnake.org**
+📧 **contact@whipsnake.org**

@@ -1,7 +1,7 @@
 # PyMCU Project 🐍⚡
 
-> **🚧 STATUS UPDATE (March 2026): Active & In Stealth Mode**
-> The PyMCU organization might look quiet, but heavy development is happening behind closed doors. We are currently heads-down building the core infrastructure, finalizing the first Alpha release, and polishing the PyMCU standard library. **Big news and code drops are coming very soon. Stay tuned.**
+> **🚀 STATUS UPDATE (April 2026): Active Development — Alpha Release Incoming**
+> Development is in full swing. The compiler core, standard library, and toolchain are being finalised ahead of the **first public Alpha release**. Expect repository access, early builds, and announcements very soon. Watch the organisation to get notified the moment we ship.
 
 **PyMCU** is an **open-source, experimental AOT compiler** that translates a safe subset of Python directly into **pure Assembly (ASM)** for microcontrollers — aiming for deterministic, bare-metal execution.
 
@@ -10,19 +10,32 @@
 - **MIT-licensed.**
 
 ## 🗺️ Roadmap & Current Scope
-To ensure a highly optimized and stable Alpha release, our current development is laser-focused on a single, robust target.
 
-- **Phase 1 (Current Focus): AVR 8-bit Architecture**
-  - **Targets:** ATmega328p (Arduino Uno, Nano, Mega).
-  - **Toolchain:** The compiler output is strictly pure ASM, designed to be assembled using `avra`.
-  - **Core Standard Library:** Launching alongside the Alpha.
+### ⚙️ Phase 1 — AVR Alpha *(in progress)*
+To ensure a highly optimised and stable first release, development is laser-focused on a single, robust target.
 
-> *Once the AVR core is stable, we will evaluate expanding to other architectures (such as ARM Cortex-M, ESP32, or PIC) based on community adoption, contributor feedback, and potential hardware sponsorships.*
+| Area | Status |
+|---|---|
+| Compiler core (Python → AVR ASM) | 🔨 In progress |
+| Target: ATmega328p (Arduino Uno / Nano / Mega) | 🔨 In progress |
+| Toolchain integration (`avra` assembler) | 🔨 In progress |
+| Core standard library for embedded constraints | 🔨 In progress |
+| Alpha release & public repositories | 🔜 Coming soon |
 
-## 🤝 Get Involved (Soon)
-Follow the organization to be notified when the repositories go public. Once we launch, we will be actively looking for feedback via issues, as well as contributions to code, docs, and tests.
+> *Once the AVR core is stable, we will evaluate expanding to other architectures (ARM Cortex-M, ESP32, PIC) based on community adoption, contributor feedback, and potential hardware sponsorships.*
+
+### 🔮 Phase 2 — Beyond AVR *(planned)*
+Additional architecture targets and a broader standard library will follow the Alpha, guided by community feedback.
+
+## 🤝 Get Involved
+The first Alpha release is around the corner. Here is how you can participate:
+
+- ⭐ **Watch / Star** this organisation to get notified the moment repositories go public.
+- 🐛 **Early testers** — once the Alpha drops, open issues with your feedback, bugs, and ideas.
+- 🛠️ **Contributors** — code, docs, tests, and examples are all welcome. See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for guidelines.
+- 💬 **Spread the word** — if PyMCU sounds interesting to you, share it with other embedded-Python enthusiasts.
 
 ## ☕ Support
-PyMCU is free, independent, and community-driven. If you believe in the vision and wish to support the development leading up to the Alpha release, you can donate via **Ko-fi** (see the Sponsor button at the top).
+PyMCU is free, independent, and community-driven. If you believe in the vision and wish to support ongoing development, you can donate via **Ko-fi** (see the Sponsor button at the top).
 
 📧 **contact@pymcu.org**

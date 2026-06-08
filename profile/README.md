@@ -1,5 +1,4 @@
 # PyMCU Project 🐍⚡
-[![Ko-fi](https://img.shields.io/badge/Support_via-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pymcu)
 > **🚀 STATUS UPDATE (June 2026): Alpha Release 1 is LIVE!**
 > The wait is over. The compiler core (`PyMcuC`), the embedded standard library, and the AVR toolchain are now public for our **first Alpha release**. Repositories are open, early builds are available, and we are ready for your feedback. Jump in and start compiling!
 
@@ -41,6 +40,6 @@ The Alpha is here, and this is the best time to participate in shaping the futur
 - 💬 **Spread the word** — share your compiled projects with other embedded-Python enthusiasts!
 
 ## ☕ Support
-PyMCU is free, independent, and community-driven. If you believe in the vision and wish to support ongoing development to help us reach our monthly goal, you can donate via **Ko-fi** (see the Sponsor button at the top).
+PyMCU is free, independent, and community-driven. If you believe in the vision and wish to support ongoing development to help us reach our monthly goal, you can donate via **Github Sponsors** (see the Sponsor button at the repos).
 
 📧 **contact@pymcu.org**

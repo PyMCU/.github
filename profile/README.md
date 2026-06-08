@@ -1,5 +1,5 @@
 # PyMCU Project 🐍⚡
-
+[![Ko-fi](https://img.shields.io/badge/Support_via-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pymcu)
 > **🚀 STATUS UPDATE (June 2026): Alpha Release 1 is LIVE!**
 > The wait is over. The compiler core (`PyMcuC`), the embedded standard library, and the AVR toolchain are now public for our **first Alpha release**. Repositories are open, early builds are available, and we are ready for your feedback. Jump in and start compiling!
 
